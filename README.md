@@ -1,3 +1,8 @@
+
+In this I trying to complete responsive .In this project I have Used  techanology like Html , css ,JavaScript ,Tailwind css ,React , and Sooon for Forntend Designing.
+for Backend -Nodejs ,express, and so on 
+Not used Mongoodb....
+
 ![Screenshot (128)](https://github.com/Barai-ShivCharan/Converter_Word_To_PDF/assets/154853565/124fe716-8ea8-4ae8-9c4f-f23a0a7fde47)
 ![Screenshot (129)](https://github.com/Barai-ShivCharan/Converter_Word_To_PDF/assets/154853565/c3413982-8db0-410e-ae1f-d7f77c50a383)
 ![Screenshot (130)](https://github.com/Barai-ShivCharan/Converter_Word_To_PDF/assets/154853565/0d615330-560b-4aad-a8d5-1111881fd25a)
